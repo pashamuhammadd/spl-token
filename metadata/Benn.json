@@ -2,14 +2,14 @@
 "name": "Benn",
 "symbol": "BENN",
 "description": "Benn asks AI everything but never learns anything. A Solana meme token satirizing blind AI dependency. Don't be Benn.",
-"image": "https://raw.githubusercontent.com/YOUR_USERNAME/benn-token/main/benn.png",
+"image": "https://raw.githubusercontent.com/pashamuhammadd/spl-token/main/BENN%20Profile.jpg",
 "uri": "https://raw.githubusercontent.com/pashamuhammadd/spl-token/refs/heads/main/metadata/Benn.json",
 "seller_fee_basis_points": 0,
 "attributes": [],
 "properties": {
 "files": [
 {
-"uri": "https://raw.githubusercontent.com/YOUR_USERNAME/benn-token/main/benn.png",
+"uri": "https://raw.githubusercontent.com/pashamuhammadd/spl-token/main/BENN%20Profile.jpg",
 "type": "image/png"
 }
 ],
