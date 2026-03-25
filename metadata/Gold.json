@@ -1,7 +1,7 @@
 {
   "name": "Lifetopia Gold",
   "symbol": "GOLD",
-  "description": "Lifetopia Gold is the primary on chain premium currency within the Lifetopia World ecosystem, designed to support a dynamic and player driven virtual economy. This token serves as a bridge between gameplay progression and blockchain based ownership, enabling players to access exclusive content, rare items, and limited time assets that enhance their in game experience. Lifetopia Gold is integrated with the Solana network to ensure fast, secure, and low cost transactions, allowing seamless interaction between players and the game economy. As Lifetopia World evolves into a persistent social sandbox, Lifetopia Gold will play a central role in facilitating digital ownership, rewarding active participation, and powering future economic systems within the world.",
+  "description": "Lifetopia Gold is the premium on chain currency of Lifetopia World, used to access exclusive items, special features, and limited content within the game.",
   "image": "https://raw.githubusercontent.com/pashamuhammadd/spl-token/main/logo.png",
   "seller_fee_basis_points": 0,
   "attributes": [],
